@@ -4,12 +4,11 @@ A corpus of lyrics of Tamil Movie Songs. Original data was scraped from the [web
 ## Directory Structure
 -----
 
-'doc'
-├── Raw_Data : The data scraped dirctly from website
-  ├── Tamil_movie_song_lyrics_2017 - Folder with individual JSON for lyrics from Tamil Movies of 2017
-  ├── Tamil_movie_song_lyrics_2018 - Folder with individual JSON for lyrics from Tamil Movies of 2018
-  ├── Tamil_movie_song_lyrics_2019 - Folder with individual JSON for lyrics from Tamil Movies of 2019
-  ├── Tamil_movie_song_lyrics_2020 - Folder with individual JSON for lyrics from Tamil Movies of 2020
+"├── Raw_Data : The data scraped dirctly from website"
+  "├── Tamil_movie_song_lyrics_2017 - Folder with individual JSON for lyrics from Tamil Movies of 2017"
+  "├── Tamil_movie_song_lyrics_2018 - Folder with individual JSON for lyrics from Tamil Movies of 2018"
+  "├── Tamil_movie_song_lyrics_2019 - Folder with individual JSON for lyrics from Tamil Movies of 2019"
+  "├── Tamil_movie_song_lyrics_2020 - Folder with individual JSON for lyrics from Tamil Movies of 2020"
   ├── Tamil_movie_song_lyrics_random_2300+ - Folder with individual JSON for lyrics from Tamil Movies
   ├── Tamil_movie_song_lyrics_2017 - JSON File incorporated lyrics from Tamil Movies of 2017
   ├── Tamil_movie_song_lyrics_2018 - JSON File incorporated lyrics from Tamil Movies of 2018
