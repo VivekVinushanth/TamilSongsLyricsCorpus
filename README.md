@@ -3,6 +3,8 @@ A corpus of lyrics of Tamil Movie Songs. Original data was scraped from the [web
 
 ## Directory Structure
 -----
+
+'doc'
 ├── Raw_Data : The data scraped dirctly from website
   ├── Tamil_movie_song_lyrics_2017 - Folder with individual JSON for lyrics from Tamil Movies of 2017
   ├── Tamil_movie_song_lyrics_2018 - Folder with individual JSON for lyrics from Tamil Movies of 2018
