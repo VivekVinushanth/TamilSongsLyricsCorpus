@@ -1,5 +1,10 @@
 # TamilSongsLyricsCorpus
-A corpus of lyrics of Tamil Movie Songs. Original data was scraped from the [website](https://www.tamilpaa.com/)
+A corpus of lyrics of Tamil Movie Songs. Original data was scraped from the [website](https://www.tamilpaa.com/). 
+The repository contains 3173 songs lyrics from movies spanning predominantly over 2017,2018,2019, 2020 and a collection of songs from other years.
+* The reason to choose the website (Scraped on 15/06/2020)
+  * Huge collection of data
+  * Expected fields present
+  * Especially, huge data with lyrics in Tamil
 
 ## Directory Structure
 -----
